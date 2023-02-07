@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    background-color: #131313;
+}
+
+.style {
+    position: relative;
+    padding: 20px;
+    border-style: solid;
+    border-radius: 4px;
+    width: 350px;
+    height: 200px;   
+    top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #333131;
+}
+
+h1 {
+    position: center;
+    font-size: 32px;
+    color: rgb(0, 0, 0);
+}
+
+#resposta {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+label {
+    font-size: 20px;
+}
